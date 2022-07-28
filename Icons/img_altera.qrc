@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="img">
+    <file>magnify (1).png</file>
+    <file>magnify.png</file>
+  </qresource>
+</RCC>

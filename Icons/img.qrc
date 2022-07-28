@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="img">
+    <file>door-open.png</file>
+    <file>account-edit.png</file>
+    <file>account-multiple-plus.png</file>
+    <file>account.png</file>
+    <file>delete.png</file>
+    <file>eye-off.png</file>
+    <file>magnify (1).png</file>
+    <file>magnify.png</file>
+  </qresource>
+</RCC>
